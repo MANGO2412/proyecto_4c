@@ -1,0 +1,11 @@
+what are  migration file  in  laravel?
+
+
+
+line command 
+
+//to create table
+php artisan make:migration create_table_general_data
+
+//to upload my table in a database
+php artisan migrate
